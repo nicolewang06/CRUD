@@ -36,12 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.new-wine-form {
-  border: solid red 1px;
-  display: block;
-}
-
-.wines {
-  width: 800px;
-}
